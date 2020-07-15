@@ -1,0 +1,18 @@
+{
+    "name":"Yadav/Contact",
+    "description": "this is for sending email and contact query form",
+    "type": "library",
+    "authors": [
+        {
+            "name":"sanjay yadaav",
+            "email": "yadav.sanjay20yadav@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yadav\\Contact\\":"src/"
+        }
+    }
+}
